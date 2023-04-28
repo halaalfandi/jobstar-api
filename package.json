@@ -29,5 +29,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaalfandi/jobstar-api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/halaalfandi/jobstar-api/issues"
+  },
+  "homepage": "https://github.com/halaalfandi/jobstar-api#readme"
 }
